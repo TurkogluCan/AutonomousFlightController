@@ -4,7 +4,7 @@
 		<cconfiguration id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1683235263">
 			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1683235263" moduleId="org.eclipse.cdt.core.settings" name="Debug">
 				<macros>
-					<stringMacro name="VERSIYON" type="VALUE_TEXT" value="0_0_1"/>
+					<stringMacro name="VERSIYON" type="VALUE_TEXT" value="0_0_2"/>
 				</macros>
 				<externalSettings/>
 				<extensions>
@@ -100,7 +100,7 @@
 		<cconfiguration id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1012329014">
 			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1012329014" moduleId="org.eclipse.cdt.core.settings" name="Release">
 				<macros>
-					<stringMacro name="VERSIYON" type="VALUE_TEXT" value="0_0_1"/>
+					<stringMacro name="VERSIYON" type="VALUE_TEXT" value="0_0_2"/>
 				</macros>
 				<externalSettings/>
 				<extensions>
